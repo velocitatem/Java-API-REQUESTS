@@ -9,3 +9,6 @@ This jar file is the easiest implemetation into any Java project, it is an easy 
     import POST.post;
     post POST = new post();
     return POST.exec("URL", "DATA(data=SomeData)");
+
+
+[src](https://techndeck.com/how-to-send-http-get-post-request-in-java/)
